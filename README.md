@@ -1,4 +1,4 @@
-# Eureka Discovery Server — Production Ready
+#Basic Eureka Discovery Server — Production Ready
 
 A production-grade Spring Boot 3.x Eureka Service Registry with:
 
